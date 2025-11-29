@@ -1,0 +1,23 @@
+body {
+    background:rgb(231, 243, 236) ;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+button {
+    display: block;
+    block-size: auto;
+    width: 120px;
+    margin:auto;
+    margin-top: 20px;
+    padding: 8px;
+    
+}
+
